@@ -13,7 +13,7 @@ Before contributing, please take a moment to read through the following guidelin
     *   Relevant error messages or stack traces.
     *   Screenshots (if applicable).
 
-*   **Suggest Features:**  Have an idea for a new feature or improvement?  [Open an issue](https://github.com/OpenmindAGI/OM1/issues) on GitHub and describe your suggestion. Explain the motivation behind the feature and how it would benefit OM1 users.  We encourage discussion on feature requests before implementation.
+*   **Suggest Features:**  Have an idea for a new feature or improvement?  ['Open an issue'](https://github.com/OpenmindAGI/OM1/issues) on GitHub and describe your suggestion. Explain the motivation behind the feature and how it would benefit OM1 users.  We encourage discussion on feature requests before implementation.
 
 *   **Improve Documentation:**  Good documentation is crucial.  If you find anything unclear, incomplete, or outdated in the documentation, please submit a pull request with your changes. This includes the README, docstrings, and any other documentation files. Visit [OM1 docs](https://docs.openmind.org/), and [source code](https://github.com/OpenmindAGI/OM1/tree/main/docs).
 
